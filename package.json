@@ -1,0 +1,21 @@
+{
+  "name": "atgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^2.3.0",
+    "fs-extra": "^5.0.0",
+    "glob": "^7.1.2",
+    "live-server": "^1.2.0",
+    "mustache": "^2.3.0",
+    "node-watch": "^0.5.6",
+    "showdown": "^1.8.6",
+    "slug": "^0.9.1"
+  }
+}
